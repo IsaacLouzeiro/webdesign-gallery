@@ -46,8 +46,10 @@ export default {
 <style lang="scss" scoped>
     @import '../assets/sass/colors.scss';
     main {
-        padding-top: 10px;
         width: 100%;
+        max-width: 1140px;
+        margin: auto;
+        padding-top: 10px;
 
         ul {
             list-style-type: none;
@@ -60,7 +62,7 @@ export default {
                 height: 200px;
                 position: relative;
                 display: inline-block;
-                margin: 3px 2px;
+                margin: 2px;
 
                 @media only screen and (max-width: 576px) {
                     width: 170px;

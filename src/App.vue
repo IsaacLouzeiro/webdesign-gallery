@@ -1,11 +1,13 @@
 <template>
     <HeaderComponent />
     <ContentComponent :illustrations="illustrations" />
+    <FooterComponent />
 </template>
 
 <script>
 import HeaderComponent from './components/HeaderComponent.vue';
 import ContentComponent from './components/ContentComponent.vue';
+import FooterComponent from './components/FooterComponent.vue';
 
 export default {
     name: 'App',
@@ -52,7 +54,8 @@ export default {
     },
     components: {
         HeaderComponent,
-        ContentComponent
+        ContentComponent,
+        FooterComponent
     }
 
 }
@@ -74,11 +77,5 @@ export default {
         width: 100%;
         background-color: $color5;
         color: $color1;
-    }
-
-    #app {
-        width: 100%;
-        max-width: 1140px;
-        margin: auto;
     }
 </style>
