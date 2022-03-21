@@ -87,6 +87,10 @@ export default {
                         }
                     }
                 }
+                
+                @media only screen and (max-width: 360px) {
+                    font-size: .9em;
+                }
             }
         }
     }
