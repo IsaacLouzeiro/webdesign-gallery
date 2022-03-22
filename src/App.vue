@@ -1,11 +1,9 @@
 <template>
-    <HeaderComponent />
-    <ContentComponent :illustrations="illustrations" />
+    <ContentComponent :illustrations="illustrations" :webTools="webTools" :uiDesign="uiDesign" />
     <FooterComponent />
 </template>
 
 <script>
-import HeaderComponent from './components/HeaderComponent.vue';
 import ContentComponent from './components/ContentComponent.vue';
 import FooterComponent from './components/FooterComponent.vue';
 
@@ -49,11 +47,31 @@ export default {
                     img: require('@/assets/img/art8.png'),
                     url: 'https://codepen.io/isaaclouzeiro/pen/XWeEPeV'
                 },
+            ],
+
+            uiDesign: [
+                {
+                    title: 'Hamburguer menu button interactive',
+                    img: require('@/assets/img/art10.png'),
+                    url: 'https://codepen.io/isaaclouzeiro/pen/gOopdyK'
+                },
+                {
+                    title: 'Button hover effects',
+                    img: require('@/assets/img/art11.png'),
+                    url: 'https://codepen.io/isaaclouzeiro/pen/ExoVgox'
+                },
+            ],
+
+            webTools: [
+                {
+                    title: 'Codepen challenge - Timekeeping',
+                    img: require('@/assets/img/art9.png'),
+                    url: 'https://codepen.io/isaaclouzeiro/pen/NWwLprP'
+                },
             ]
         } 
     },
     components: {
-        HeaderComponent,
         ContentComponent,
         FooterComponent
     }
