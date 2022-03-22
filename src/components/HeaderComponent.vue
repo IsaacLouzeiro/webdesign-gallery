@@ -32,6 +32,7 @@ export default {
     @import '../assets/sass/colors.scss';
 
     #headerComponent {
+        width: 100%;
         text-align: center;
 
         header {

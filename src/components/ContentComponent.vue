@@ -48,7 +48,7 @@ export default {
     main {
         width: 100%;
         max-width: 1140px;
-        margin: auto;
+        margin: 10px auto auto auto;
         padding-top: 10px;
 
         ul {

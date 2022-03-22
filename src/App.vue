@@ -73,9 +73,18 @@ export default {
         font-family: 'Montserrat', sans-serif;
     }
 
-    body {
+    html,body, #app {
         width: 100%;
+        height: 100%;
+    }
+
+    body {
         background-color: $color5;
         color: $color1;
+    }
+
+    #app {
+        display: flex;
+        flex-direction: column;
     }
 </style>

@@ -13,9 +13,10 @@ export default {
 <style lang="scss" scoped>
     @import '../assets/sass/colors.scss';
     footer {
+        width: 100%;
         background-color: $color4;
         text-align: center;
-        margin-top: 10px;
+        margin-top: 15px;
         padding: 12px;
         color: $color5;
 
