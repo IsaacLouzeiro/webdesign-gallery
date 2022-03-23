@@ -2,7 +2,7 @@
     <div id="headerPart">
         <header>
             <img src="@/assets/img/logo.png" alt="isaac louzeiro logo">
-            <h1>Webdesign Art Gallery</h1>
+            <h1>Web Design Art Gallery</h1>
             <p>by Isaac Louzeiro</p>
             <ul id="socialLinks">
                 <li><a href="https://codepen.io/isaaclouzeiro/" title="Codepen Profile" target="_blank"><font-awesome-icon :icon="['fab', 'codepen']" /></a></li>
