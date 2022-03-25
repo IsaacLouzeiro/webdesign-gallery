@@ -60,6 +60,11 @@ export default {
                     img: require('@/assets/img/art11.png'),
                     url: 'https://codepen.io/isaaclouzeiro/pen/ExoVgox'
                 },
+                {
+                    title: 'Toggle Button',
+                    img: require('@/assets/img/art12.png'),
+                    url: 'https://codepen.io/isaaclouzeiro/pen/jOYyZPM'
+                }
             ],
 
             webTools: [

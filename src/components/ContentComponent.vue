@@ -216,6 +216,7 @@
                     a {
                         color: $color4;
                         font-size: 1.5em;
+                        filter: drop-shadow(0 0 2px rgba($color2, .8));
                     }
                 }
                 
