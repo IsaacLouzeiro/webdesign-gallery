@@ -8,7 +8,7 @@
 
 ### -- About
 
-#### Showing my projects of web design, UI/UX and CSS arts, mostly of my codepen.
+#### Showing my projects of web design, UI|UX and CSS arts, mostly of my codepen.
 
 ### -- Technologies
 
@@ -27,7 +27,7 @@
 
 ### -- Sobre
 
-#### Mostrando meus projetos de web design, UI/UX e artes em CSS, principalmente do meu codepen.
+#### Mostrando meus projetos de web design, UI|UX e artes em CSS, principalmente do meu codepen.
 
 ### -- Tecnologias
 
