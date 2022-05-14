@@ -73,6 +73,11 @@ export default {
                     img: require('@/assets/img/art9.png'),
                     url: 'https://codepen.io/isaaclouzeiro/pen/NWwLprP'
                 },
+                {
+                    title: 'Color Picker',
+                    img: require('@/assets/img/art13.png'),
+                    url: 'https://codepen.io/isaaclouzeiro/pen/oNEzwQO'
+                }
             ]
         } 
     },
