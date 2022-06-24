@@ -51,6 +51,11 @@ export default {
 
             uiDesign: [
                 {
+                    title: 'Open Spotify UI',
+                    img: require('@/assets/img/art14.png'),
+                    url: 'https://codepen.io/isaaclouzeiro/pen/zYRyoJw'
+                },
+                {
                     title: 'Hamburguer menu button interactive',
                     img: require('@/assets/img/art10.png'),
                     url: 'https://codepen.io/isaaclouzeiro/pen/gOopdyK'
