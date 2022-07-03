@@ -51,6 +51,11 @@ export default {
 
             uiDesign: [
                 {
+                    title: 'UI Interactive Credit Card',
+                    img: require('@/assets/img/art15.png'),
+                    url: 'https://codepen.io/isaaclouzeiro/pen/KKopbJB'
+                },
+                {
                     title: 'Open Spotify UI',
                     img: require('@/assets/img/art14.png'),
                     url: 'https://codepen.io/isaaclouzeiro/pen/zYRyoJw'
@@ -73,6 +78,11 @@ export default {
             ],
 
             webTools: [
+                {
+                    title: 'To do List with VueJs',
+                    img: require('@/assets/img/art16.png'),
+                    url: 'https://codepen.io/isaaclouzeiro/pen/RwMPVqJ'
+                },
                 {
                     title: 'Codepen challenge - Timekeeping',
                     img: require('@/assets/img/art9.png'),
